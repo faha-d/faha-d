@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fahad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<img src="https://d1ivubrj2a21dq.cloudfront.net/wp-content/uploads/2023/01/02152015/front-end-development.gif" align="right" width="400" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-fahad786&label=Profile%20views&color=0e75b6&style=flat" alt="m-fahad786" /> </p>
 
