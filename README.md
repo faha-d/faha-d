@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fahad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="center" alt="coding" width="200px">
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="center" alt="coding" width="900px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-fahad786&label=Profile%20views&color=0e75b6&style=flat" alt="m-fahad786" /> </p>
 
