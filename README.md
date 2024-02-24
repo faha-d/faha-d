@@ -1,30 +1,57 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fahad</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="center" alt="coding" width="1000px">
+<!-- Readme Start -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-fahad786&label=Profile%20views&color=0e75b6&style=flat" alt="m-fahad786" /> </p>
+<!-- Main Heading -->
+<h2 align="center">Code is like humor. When you have to explain it, it’s bad.</h2>
 
-- 🌱 I’m currently learning **Angular , C , C#**
+<!-- Short Info -->
+<p style="margin-top: 6px; line-height:26x; font-size:16px;">
+I'm Muhammad Fahad, a Frontend Developer, passionate about crafting captivating web experiences that blend form with function, using my frontend skills and design flair. I have proficiency in HTML, CSS, and JavaScript, React, TypeScript, NodeJS. I enjoy working in cross-functional teams to bring ideas to life, and I have contributed to several projects that enhanced user interactions and satisfaction. My goal is to create web applications that are intuitive, engaging, and accessible, and to grow as a frontend developer and a computer science professional. I would love to connect with you and explore the exciting realm of frontend development together!</p>
 
-- 💬 Ask me about **Html, Css, Js , React , React Native , MongoDB**
+ | Currently Learning | DSA |
+| ------------------ | ----------- |
 
-- 📫 How to reach me **fahad.zahid2004@gmail.com**
+<hr>
+<h3 align="left">📫 Connect with me on 🔗 :</h3>
 
-- 📄 Know about my experiences [https://p-portfolio-website.netlify.app/](https://p-portfolio-website.netlify.app/)
-
-- ⚡ Fun fact **I have a love-hate relationship with Internet Explorer. 😄**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-fahad-85b199247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-fahad-85b199247" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@fahadcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdelkfl5jfs5hzvqdbvlkfa" height="30" width="40" /></a>
+	<a href="https://www.linkedin.com/in/muhammad-fahad7865" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" />
+</a>
+	<a href="https://twitter.com/fehdi_here" target="blank" style="padding:8px">
+<img align="center" style="margin:8px" src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" />
+</a>
+	<a href="https://www.instagram.com/ig_fehdi/" target="blank" style="padding:8px">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" alt="shehza.d" height="50" width="50" />
+</a>
+	<a href="https://www.youtube.com/@fahadcodes" target="blank"><img align="center"
+			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+			alt="YouTube" height="50" width="50" /></a>
+	<img src="https://komarev.com/ghpvc/?username=faha-d&label=Profile%20views&color=11eb11&style=for-the-badge"
+		alt="shehza-d" align="right" />
 </p>
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 style="text-align: left;">Tech Stack 🛠️ : </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-fahad786&show_icons=true&locale=en&layout=compact" alt="m-fahad786" /></p>
+<p style="text-align: center;"> 
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,typescript,bootstrap,tailwind,mongodb,firebase,mysql,git,linux,c,postman,docker,bash" />
+</p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-fahad786&show_icons=true&locale=en" alt="m-fahad786" /></p>
+<!-- Skills in Focus -->
+<h3 style="text-align: left;">Skills in Focus 🎯 :</h3>
+<p style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=react,threejs,expressjs,angular,nextjs,nestjs,php,nginx,nodejs,mongodb,java,cpp,python,swift,golang,rust,kotlin,flutter" />
+</p>
+<hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-fahad786&" alt="m-fahad786" /></p>
+<!-- Github Stats -->
+<h2> GitHub Stats : <h2 />
+	<br>
+	<p align="center">
+		<img
+			src="https://github-readme-stats.vercel.app/api/top-langs?username=faha-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" /><br>
+	<p align="center">
+		<br>
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=faha-d&theme=outrun" />
+	</p>
