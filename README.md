@@ -7,14 +7,14 @@
 <p style="margin-top: 6px; line-height:26x; font-size:16px;">
 I'm Muhammad Fahad, a Frontend Developer, passionate about crafting captivating web experiences that blend form with function, using my frontend skills and design flair. I have proficiency in HTML, CSS, and JavaScript, React, TypeScript, NodeJS. I enjoy working in cross-functional teams to bring ideas to life, and I have contributed to several projects that enhanced user interactions and satisfaction. My goal is to create web applications that are intuitive, engaging, and accessible, and to grow as a frontend developer and a computer science professional. I would love to connect with you and explore the exciting realm of frontend development together!</p>
 
- | Currently Learning | DSA |
+ | Currently Learning | Backend Development |
 | ------------------ | ----------- |
 
 <hr>
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/muhammad-fahad7865" target="blank">
+	<a href="https://www.linkedin.com/in/faha-d" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" />
 </a>
 	<a href="https://twitter.com/fehdi_here" target="blank" style="padding:8px">
