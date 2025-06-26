@@ -50,8 +50,4 @@ I'm Muhammad Fahad, a Frontend Developer, passionate about crafting captivating 
 	<br>
 	<p align="center">
 		<img
-			src="https://github-readme-stats.vercel.app/api/top-langs?username=faha-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" /><br>
-	<p align="center">
-		<br>
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=faha-d&theme=outrun" />
-	</p>
+			src="https://github-readme-stats.vercel.app/api/top-langs?username=faha-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" />
