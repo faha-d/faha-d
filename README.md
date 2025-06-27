@@ -1,17 +1,18 @@
 <!-- Readme Start -->
 
 <!-- Main Heading -->
-<h2 align="center">Code is like humor. When you have to explain it, it’s bad.</h2>
+<h2 align="center">I don’t just build interfaces. I shape experiences.</h2>
 
 <!-- Short Info -->
-<p style="margin-top: 6px; line-height:26x; font-size:16px;">
-I'm Muhammad Fahad, a Frontend Developer, passionate about crafting captivating web experiences that blend form with function, using my frontend skills and design flair. I have proficiency in HTML, CSS, and JavaScript, React, TypeScript, NodeJS. I enjoy working in cross-functional teams to bring ideas to life, and I have contributed to several projects that enhanced user interactions and satisfaction. My goal is to create web applications that are intuitive, engaging, and accessible, and to grow as a frontend developer and a computer science professional. I would love to connect with you and explore the exciting realm of frontend development together!</p>
+<p style="margin-top: 6px; line-height:26px; font-size:16px;">
+Hi, I'm Muhammad Fahad — a passionate Frontend Developer focused on building web experiences that are both beautiful and functional. I specialize in HTML, CSS, JavaScript, React, TypeScript, and Node.js, and I bring a strong eye for design to everything I build.</p>
 
- | Currently Learning | Backend Development |
-| ------------------ | ----------- |
+<p style="margin-top: 6px; line-height: 26px; font-size:16px;">I enjoy working in cross-functional teams, transforming ideas into intuitive and engaging applications. My contributions have helped enhance user satisfaction and interaction across multiple projects. </p>
+
+<p style="margin-top: 6px; line-height: 26px; font-size:16px;"> Let’s connect and explore the exciting world of frontend development together! </p>
 
 <hr>
-<h3 align="left">📫 Connect with me on 🔗 :</h3>
+<h3 align="left">Connect with me on:</h3>
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/faha-d" target="blank">
@@ -21,27 +22,24 @@ I'm Muhammad Fahad, a Frontend Developer, passionate about crafting captivating 
 <img align="center" style="margin:8px" src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" />
 </a>
 	<a href="https://www.instagram.com/ig_fehdi/" target="blank" style="padding:8px">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" alt="shehza.d" height="50" width="50" />
+<img align="center" src="https://skillicons.dev/icons?i=instagram" alt="faha-d" height="50" width="50" />
 </a>
-	<a href="https://www.youtube.com/@fahadcodes" target="blank"><img align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-			alt="YouTube" height="50" width="50" /></a>
 	<img src="https://komarev.com/ghpvc/?username=faha-d&label=Profile%20views&color=11eb11&style=for-the-badge"
-		alt="shehza-d" align="right" />
+		alt="faha-d" align="right" />
 </p>
 <hr>
 
-<h3 style="text-align: left;">Tech Stack 🛠️ : </h3>
+<h3 style="text-align: left;">Tech Stack: </h3>
 
 <p style="text-align: center;"> 
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,typescript,bootstrap,tailwind,mongodb,firebase,mysql,git,linux,c,postman,docker,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,typescript,bootstrap,tailwind,mongodb" />
 </p>
 <hr>
 
 <!-- Skills in Focus -->
-<h3 style="text-align: left;">Skills in Focus 🎯 :</h3>
+<h3 style="text-align: left;">Skills in Focus:</h3>
 <p style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=react,threejs,expressjs,angular,nextjs,nestjs,php,nginx,nodejs,mongodb,java,cpp,python,swift,golang,rust,kotlin,flutter" />
+    <img src="https://skillicons.dev/icons?i=react,java,nextjs,angular" />
 </p>
 <hr>
 
